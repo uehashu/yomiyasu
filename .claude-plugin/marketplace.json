@@ -18,7 +18,11 @@
       "category": "productivity",
       "homepage": "https://github.com/nanaism/yomiyasu",
       "repository": "https://github.com/nanaism/yomiyasu",
-      "license": "MIT"
+      "license": "MIT",
+      "strict": false,
+      "skills": [
+        "./skills/yomiyasu"
+      ]
     }
   ]
 }
